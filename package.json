@@ -1,0 +1,25 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "Shopping list using mongoose/mongodb database",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tai-abrahams/shopping-list.git"
+  },
+  "keywords": [
+    "Shopping",
+    "list",
+    "react",
+    "app"
+  ],
+  "author": "Tai Abrahams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tai-abrahams/shopping-list/issues"
+  },
+  "homepage": "https://tai-abrahams.github.io/shopping-list"
+}
